@@ -12,8 +12,6 @@ An 18-year-old full-stack developer working with React and Rails. :gem:
   <img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/stackoverflow-512.png" alt="drawing" width="50" height="50"/>
 </a>
 
-[You can also check out my website for more info](https://lukapavicic.com)
-
 ## :orange_book: Currently learning
 
 Focusing on React and Rails primarely. Looking forward to learning Docker in the near future.
