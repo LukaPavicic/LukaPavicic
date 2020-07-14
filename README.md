@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Luka Pavičić 👋
+
+#### An 18-year-old full-stack developer working with React and Rails. :gem: 
 
 <!--
 **LukaPavicic/LukaPavicic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
