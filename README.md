@@ -1,18 +1,20 @@
 ### Hi there, I'm Luka Pavičić 👋
 
-#### An 18-year-old full-stack developer working with React and Rails. :gem: 
+An 18-year-old full-stack developer working with React and Rails. :gem: 
 
-<!--
-**LukaPavicic/LukaPavicic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Some of my social links
 
-Here are some ideas to get you started:
+<a href="https://twitter.com/LukaPavicic4" rel="some text">
+  <img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" alt="drawing" width="50" height="50"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://stackoverflow.com/users/10249627/crodev?tab=profile" rel="some text">
+  <img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/stackoverflow-512.png" alt="drawing" width="50" height="50"/>
+</a>
+
+[You can also check out my website for more info](https://lukapavicic.com)
+
+## :orange_book: Currently learning
+
+Focusing on React and Rails primarely. Looking forward to learning Docker in the near future.
+
