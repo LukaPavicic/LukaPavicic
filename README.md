@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Luka</h1>
-<h3 align="center">Developer from Croatia currently studying CS at FOI, Croatia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukapavicic&label=Profile%20views&color=0e75b6&style=flat" alt="lukapavicic" /> </p>
 
